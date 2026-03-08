@@ -19,3 +19,4 @@
 | ![](https://avatars.steamstatic.com/5a6f4ed05013fa667e15dbfe00e35dd52328dee8.jpg) | Kirito   | [76561199212175342](https://steamcommunity.com/profiles/76561199212175342/) | ✅           | 2022-09-21 01:36:10 |                |          |
 | ![](https://avatars.steamstatic.com/1de8c7b374c7d9944bb90a2f3159059f94a38b74.jpg) | 初始之音响彻未来 | [76561198961638153](https://steamcommunity.com/profiles/76561198961638153/) | ✅           | 2021-10-18 09:54:05 |                |          |
 | ![](https://avatars.steamstatic.com/936237d858d422802ee173a1bfc85f6b049a0829.jpg) | 万能青年旅店   | [76561199223601081](https://steamcommunity.com/profiles/76561199223601081/) | ✅           | 2021-12-22 23:58:40 |                |          |
+| ![](https://avatars.steamstatic.com/61a1219926621bf5ef6e4d10a81a11b707fcd610.jpg) | 组一辈子乐队   | [76561198386654081](https://steamcommunity.com/profiles/76561198386654081/) | ✅           | 2026-03-07 11:23:57 |                |          |
